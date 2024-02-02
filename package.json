@@ -1,6 +1,7 @@
 {
-	"author": "ROMAN KOZLOV",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "ROMAN KOZLOV",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
